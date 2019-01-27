@@ -58,7 +58,7 @@ body {
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
-    color: #ffffff;
+    color:  #4aaaa5;
     background: #f9fcfa;
     border-bottom: 8px solid #4aaaa5;
   }
@@ -162,7 +162,7 @@ body {
     margin-bottom: 0;
     font-weight: 300;
     line-height: 30px;
-    color: #ffffff;
+    color:  #4aaaa5;
     text-align: center;
     background: #f9fcfa;
     border-bottom: 0;
@@ -200,7 +200,7 @@ body {
     height: 35px;
     padding: 0 10px;
     font-size: 14px;
-    border: 1px solid #dddddd;
+    border: 1px solid #4aaaa5;
   }
   
   textarea {
@@ -210,7 +210,7 @@ body {
   input[type=submit] {
     padding: 10px 30px;
     font-size: 18px;
-    color: #ffffff;
+    color: #0a0a0a;
     cursor: pointer;
     background: #f9fcfa;
     border: 0 none;
